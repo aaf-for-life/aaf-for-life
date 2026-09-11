@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there guys welcome to my Github 👋
 
+I am a cybersecurity student at Northeastern who love to tinker security related challenges and create fun projects. Most of my repositories must be kept private do to class restrictions, however much of much of my programming work is Networking and Systems Security related. I plan on coming up with some fun personal projects over the winter break using some of the skills I learnt from classes so definelty stay tuned for that!
 <!--
 **aaf-for-life/aaf-for-life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
